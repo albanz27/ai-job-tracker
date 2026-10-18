@@ -3,6 +3,10 @@
 Applicazione web per organizzare le candidature di lavoro,
 sviluppata con React, TypeScript e Vite.
 
+## Demo online
+
+[Prova AI Job Tracker](https://albanz27.github.io/ai-job-tracker/)
+
 ## Anteprima
 
 ![Dashboard con statistiche e gestione delle candidature](docs/image2.png)
