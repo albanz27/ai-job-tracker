@@ -3,6 +3,10 @@
 Applicazione web per organizzare le candidature di lavoro,
 sviluppata con React, TypeScript e Vite.
 
+## Anteprima
+
+![Dashboard con statistiche e gestione delle candidature](docs/image2.png)
+
 ## Funzionalità
 
 - Inserimento di candidature con azienda e ruolo.
